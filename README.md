@@ -4,7 +4,7 @@ All projects are simulated using platforms like Tinkercad and Python, and includ
 Whether you're a beginner or brushing up on your skills, feel free to explore, clone, or contribute!
 | Day | Project Title | Category | Platform | Simulation Link | Status |
 |-----|--------------------------|--------------------|----------------|------------------|---------|
-| 1 | Blink & Button | Sensors & Actuators | Tinkercad |   |  Done |
+| 1 | Blink & Button | Sensors & Actuators | Tinkercad | https://www.tinkercad.com/things/loLLzDFtjBz-cool-esboo-kasi  |  Done |
 | 2 | Temperature Logger | Sensors | Wokwi |   | ⏳ To Do |
 | 3 | Ultrasonic Ruler | Sensors & Display | Tinkercad |   | ⏳ To Do |
 | 4 | Servo Control | Actuators | Tinkercad |   | ⏳ To Do |
