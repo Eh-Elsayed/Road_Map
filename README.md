@@ -1,6 +1,6 @@
 🚀 Robotics & IoT – 30-Day Simulation Challenge
 Welcome to my 30-day Robotics and IoT simulation challenge! This repository documents a series of small to medium one-day projects designed to build and demonstrate core skills in embedded systems, automation, and robotics without using any physical hardware.
-All projects are simulated using platforms like Tinkercad, Wokwi, and Python, and include circuit diagrams, source code, and detailed documentation.
+All projects are simulated using platforms like Tinkercad and Python, and include circuit diagrams, source code, and detailed documentation.
 Whether you're a beginner or brushing up on your skills, feel free to explore, clone, or contribute!
 | Day | Project Title | Category | Platform | GitHub Repo | Simulation Link | Status |
 |-----|--------------------------|--------------------|----------------|-------------|------------------|---------|
