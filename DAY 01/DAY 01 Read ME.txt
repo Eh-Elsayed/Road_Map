@@ -1,0 +1,26 @@
+# 🔴 Day 1 – Blink & Button
+
+This project is part of my **30-Day Robotics & IoT Simulation Challenge**.
+
+## 🔧 Description
+An LED is connected to pin 13 on the Arduino. A push button on pin 2 controls the blinking speed of the LED.  
+- When the button is **not pressed**, the LED blinks slowly.  
+- When the button is **pressed**, the LED blinks faster.
+
+## 🧰 Tools & Components
+- Arduino Uno (simulated in Tinkercad)
+- 1 × LED
+- 1 × 220Ω resistor
+- 1 × Push button
+- 1 × 10kΩ pull-down resistor
+
+## 💻 Code
+See `BlinkButton.ino` for the complete code.
+
+## ▶️ Simulation
+Tinkercad Circuit: [https://www.tinkercad.com/things/loLLzDFtjBz-cool-esboo-kasi)
+
+## 📚 What I Learned
+- How to use digital input from a button  
+- Controlling behavior using conditional logic  
+- Creating dynamic LED blink patterns
